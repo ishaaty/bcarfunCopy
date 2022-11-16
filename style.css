@@ -1,0 +1,149 @@
+html {
+    background-color: rgb(0, 0, 0);
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+}
+
+button {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    border-width: 15px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-style: solid;
+    border-radius: 35px;
+    cursor: pointer;
+    transition: all 1s;
+}
+
+p {
+    color: white;
+}
+
+
+a {
+    color: white;
+}
+
+#magenta {
+    color: rgb(250, 2, 192);
+    border-color: rgb(250, 2, 192);
+}
+
+#coral {
+    color: rgb(250, 2, 52);
+    border-color: rgb(250, 2, 52);
+}
+
+#coral:hover{
+    color: white;
+    background-color: rgb(250, 2, 52);
+    border-color: white;
+}
+
+#bloodOrange {
+    color: rgb(250, 39, 2);
+    border-color: rgb(250, 39, 2);
+}
+
+#bloodOrange:hover {
+    color: white;
+    background-color: rgb(250, 39, 2);
+    border-color: white;
+}
+
+#orange {
+    color: rgb(250, 97, 2);
+    border-color: rgb(250, 97, 2);
+}
+
+#orange:hover {
+    color: white;
+    background-color: rgb(250, 97, 2);
+    border-color: white;
+}
+
+#yellow {
+    color: rgb(250, 171, 2);
+    border-color: rgb(250, 171, 2);
+}
+
+#yellow:hover {
+    color: white;
+    background-color: rgb(250, 171, 2);
+    border-color: white;
+}
+
+#lemonYellow {
+    color: rgb(216, 209, 4);
+    border-color: rgb(216, 209, 4);
+}
+
+#lemonYellow:hover {
+    color: white;
+    background-color: rgb(216, 209, 4);
+    border-color: white;
+}
+
+#limeGreen {
+    color: rgb(95, 208, 2);
+    border-color: rgb(95, 208, 2);
+}
+
+#limeGreen:hover {
+    color: white;
+    background-color: rgb(95, 208, 2);
+    border-color: white;
+}
+
+#mintGreen {
+    color: rgb(4, 224, 99);
+    border-color: rgb(4, 224, 99);
+}
+
+#mintGreen:hover {
+    color: white;
+    background-color: rgb(4, 224, 99);
+    border-color: white;
+}
+
+#mintBlue {
+    color: rgb(2, 250, 209);
+    border-color: rgb(2, 250, 209);
+}
+
+#mintBlue:hover {
+    color: white;
+    background-color: rgb(2, 250, 209);
+    border-color: white;
+}
+
+#deepBlue {
+    color: rgb(2, 114, 250);
+    border-color: rgb(2, 114, 250);
+}
+
+#deepBlue:hover {
+    color: white;
+    background-color: rgb(2, 114, 250);
+    border-color: white;
+}
+
+#royalBlue {
+    color: rgb(43, 2, 250);
+    border-color: rgb(43, 2, 250);
+}
+
+#royalBlue:hover {
+    color: white;
+    background-color: rgb(43, 2, 250);
+    border-color: white;
+}
