@@ -116,13 +116,13 @@ a {
 }
 
 #mintBlue {
-    color: rgb(2, 250, 209);
-    border-color: rgb(2, 250, 209);
+    color: rgb(80, 218, 195);
+    border-color: rgb(80, 218, 195);
 }
 
 #mintBlue:hover {
     color: white;
-    background-color: rgb(2, 250, 209);
+    background-color: rgb(80, 218, 195);
     border-color: white;
 }
 
