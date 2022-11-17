@@ -147,3 +147,14 @@ a {
     background-color: rgb(43, 2, 250);
     border-color: white;
 }
+
+#royalPurple {
+    color: rgb(171, 2, 250);
+    border-color: rgb(171, 2, 250);
+}
+
+#royalPurple:hover {
+    color: white;
+    background-color: rgb(171, 2, 250);
+    border-color: white;
+}
