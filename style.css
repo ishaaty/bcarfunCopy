@@ -148,6 +148,17 @@ a {
     border-color: white;
 }
 
+#navylBlue {
+    color: rgb(29, 3, 161);
+    border-color: rgb(29, 3, 161);
+}
+
+#navyBlue:hover {
+    color: white;
+    background-color: rgb(29, 3, 161);
+    border-color: white;
+}
+
 #royalPurple {
     color: rgb(171, 2, 250);
     border-color: rgb(171, 2, 250);
@@ -159,6 +170,16 @@ a {
     border-color: white;
 }
 
+#deepPurple {
+    color: rgb(61, 5, 87);
+    border-color: rgb(61, 5, 87);
+}
+
+#deepPurple:hover {
+    color: white;
+    background-color: rgb(61, 5, 87);
+    border-color: white;
+}
 #pink {
     color: rgb(250, 2, 126);
     border-color: rgb(250, 2, 126);
