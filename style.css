@@ -24,18 +24,19 @@ button {
     transition: all 1s;
 }
 
-p {
-    color: white;
-}
-
-
-a {
+p, a {
     color: white;
 }
 
 #magenta {
     color: rgb(250, 2, 192);
     border-color: rgb(250, 2, 192);
+}
+
+#magenta:hover{
+    color: white;
+    background-color: rgb(250, 2, 192);
+    border-color: white;
 }
 
 #coral {
